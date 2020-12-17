@@ -1,0 +1,11 @@
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\Framework.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\Framework.pdb
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\obj\Debug\Framework.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\obj\Debug\Framework.pdb
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\WebDriver.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\WebDriver.xml
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\9. C# automation\E3\E3AutomationCSharp\Framework\bin\Debug\WebDriver.Support.xml
